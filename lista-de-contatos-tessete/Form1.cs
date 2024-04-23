@@ -21,5 +21,25 @@ namespace lista_de_contatos_tessete
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ListadeContato_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ButtonEnviar_Click(object sender, EventArgs e)
+        {
+            contato contato = new contato();
+            contato.Nome = Sobrenome.Text;
+            contato.Nome = Nome.Text;
+            contato.Nome = Telefone.Text;
+
+            ListadeContatos.Items.Add(contato.ToString());
+        }
     }
 }
