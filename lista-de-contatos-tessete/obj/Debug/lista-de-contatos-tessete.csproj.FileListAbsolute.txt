@@ -1,0 +1,10 @@
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\bin\Debug\lista-de-contatos-tessete.exe.config
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\bin\Debug\lista-de-contatos-tessete.exe
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\bin\Debug\lista-de-contatos-tessete.pdb
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\obj\Debug\lista-de-contatos-tessete.csproj.AssemblyReference.cache
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\obj\Debug\lista_de_contatos_tessete.Form1.resources
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\obj\Debug\lista_de_contatos_tessete.Properties.Resources.resources
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\obj\Debug\lista-de-contatos-tessete.csproj.GenerateResource.cache
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\obj\Debug\lista-de-contatos-tessete.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\obj\Debug\lista-de-contatos-tessete.exe
+C:\Users\gabriel.kmgimaiel\source\repos\lista-de-contatos-tessete\lista-de-contatos-tessete\obj\Debug\lista-de-contatos-tessete.pdb

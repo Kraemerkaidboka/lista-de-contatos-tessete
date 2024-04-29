@@ -108,6 +108,7 @@
             this.ListadeContatos.Name = "ListadeContatos";
             this.ListadeContatos.Size = new System.Drawing.Size(255, 329);
             this.ListadeContatos.TabIndex = 10;
+            this.ListadeContatos.SelectedIndexChanged += new System.EventHandler(this.ListadeContatos_SelectedIndexChanged);
             // 
             // Form1
             // 

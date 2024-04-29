@@ -22,7 +22,7 @@ namespace lista_de_contatos_tessete
             }
             set 
             {
-                Nome = value;
+                nome = value;
             }
         }
         public string Sobrenome
@@ -40,13 +40,13 @@ namespace lista_de_contatos_tessete
         {
             get 
             { 
-            return telefone;
+                return telefone;
             }
             set
             {
                 if (telefone.Length == 11) 
                 {
-                telefone = value;
+                    telefone = value;
                 }
                 else 
                 {
